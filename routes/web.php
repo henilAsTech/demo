@@ -20,8 +20,3 @@ Route::get('/', function () {
 Route::get('/git', function() {
     return view('');
 });
-
-Route::get('/demo', function() {
-    return view('');
-});
-
